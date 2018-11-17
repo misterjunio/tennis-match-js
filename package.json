@@ -1,0 +1,21 @@
+{
+  "name": "tennis-match-js",
+  "version": "1.0.0",
+  "description": "JavaScript simulation of a 1-set tennis match",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha"
+  },
+  "keywords": [
+    "tennis",
+    "match",
+    "javascript"
+  ],
+  "author": "Rui Júnio Silva",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
